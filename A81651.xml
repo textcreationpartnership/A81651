@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Her appeal from the court to the camp</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81651</idno>
+            <idno type="STC">Wing D1970A</idno>
+            <idno type="STC">ESTC R231410</idno>
+            <idno type="EEBO-CITATION">99897292</idno>
+            <idno type="PROQUEST">99897292</idno>
+            <idno type="VID">137016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81651)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Her appeal from the court to the camp</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137016:1" rendition="simple:additions"/>
+            <p>HER APPEAL FROM THE COURT TO THE CAMP.</p>
+            <q>
+               <bibl>Dan. 12.</bibl>
+               <p>Many ſhall be purified, and made white, and tryed: But the wicked ſhall do wickedly, and none of the wicked ſhall underſtand: But the wiſe ſhall un<g ref="char:EOLhyphen"/>derſtand.</p>
+            </q>
+            <p>Printed in the yeer 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:137016:2"/>
+            <head>
+               <hi>The Word of the Moſt High:</hi> To the Lord General, Lord FAIRFAX, From the Lady <hi>Eleanor.</hi>
+            </head>
+            <p>THe generality or ſcope of this com<g ref="char:EOLhyphen"/>mand touching <hi>Propheſie,</hi> though ceaſed a time, the Church bidden expreſly, <hi>Deſpiſe it not,</hi> but <hi>to try the Spirits,</hi> needleſs to be inſiſted on. Let it ſeem not therefore ſtrange or hard what is here de<g ref="char:EOLhyphen"/>ſired, ſince nothing too hard for him whom ye ſerve, <hi>The Lord of Hoſts,</hi> that you the Commander of the field, prayed <hi>to ſend forth Harveſt-laborers,</hi> to be pleaſed to appoint ſome faithful by name, the truth of theſe things for to examine, no true peace without it, concerning what ſhe hath been a ſufferer ſo many years for;
+<pb n="3" facs="tcp:137016:2"/>no leſs then the burthen of his word to <hi>Great Britain</hi> (Anno Dom.) <hi>1625.</hi> bear<g ref="char:EOLhyphen"/>ing date firſt of the preſent Reign, Three and twenty years ſince; ſhewing what year in as it were the general Judgment, ſpeak<g ref="char:EOLhyphen"/>ing as through a Trumpet from Heaven: So that the Prophets teſtimony, the Scri<g ref="char:EOLhyphen"/>ptures which accords therewith, may no longer wait for their reſurrection; that have by Antichriſtian authority been cru<g ref="char:EOLhyphen"/>cified and buried hitherto, like <hi>that gold<g ref="char:EOLhyphen"/>en wedge or tongue,</hi> hidden by him <hi>A<g ref="char:EOLhyphen"/>chan,</hi> author of ſo much trouble: Even the Prophet <hi>Daniel, that greatly beloved man;</hi> and John, <hi>whom he loved, that boſom Diſciple;</hi> both teſtifying of great <hi>Britains</hi> viſitation at ſuch a time, as from his own mouth alſo <hi>(Mat. 24.)</hi> after ſuch fearful denounced Judgements, the like never afore or again, bidden therefore, <hi>watch,</hi> &amp;c. ſhews of that bleſſed <hi>Man<g ref="char:EOLhyphen"/>na</hi>
+               <pb n="4" facs="tcp:137016:3"/>their <hi>meat in due ſeaſon,</hi> vvhen to be given them, doubtleſs ſomething to be revealed, a forewarning plain enough.</p>
+            <p>As from <hi>the Kingdom of Heaven being likened unto thoſe virgins, five wiſe, and five fooliſh,</hi> ſhall ſhew you a myſtery, how points to the aforeſaid acce<g ref="char:EOLhyphen"/>ptable year <hi>1625.</hi> begins with the bleſſed Virgins feaſt (Five and twentieth of the moneth) witneſs when made at midnight <hi>that cry before the Bridegroom;</hi> which as betokens the word of God in ſuch a year ſo to ſuch a Reign directed, that began then; and his marrying with ſuch a one, with the late hour of wedding nights, &amp;c. <hi>(Mat. 25.) where the five Talents ac<g ref="char:EOLhyphen"/>count given</hi> up, a touch gives of the ſame year too; and for her wiſdom anointed with <hi>her lamp-oyl ſpent</hi> ſo much: <hi>Mary</hi> likewiſe by name much like that, had a name, <hi>She lives, but was dead</hi> (Rev. <hi>3.)
+<pb n="5" facs="tcp:137016:3"/>brought with her a curſe in ſtead of a bleſsing, Peſtilence,</hi> never ſuch, and Sword <hi>Great Britains</hi> portion; as bleſ<g ref="char:EOLhyphen"/>ſings great ſet light by, unaccompanied with no ſmal corrections, where again up<g ref="char:EOLhyphen"/>on his Prophetical Reply to our Saviour <hi>Chriſt</hi> (Luke <hi>14.) Bleſſed is he that ſhall eat bread in the kingdom of hea<g ref="char:EOLhyphen"/>ven</hi> (as much to ſay) <hi>lives to ſee him reign, his foes put under his feet for ever:</hi> alſo <hi>Sion, whoſo toucheth her, toucheth the apple of his eye,</hi> puts forth this Parable, <hi>A certain man made a great ſupper, and bade many; and at ſupper time ſent forth his ſervant,</hi> that intruſted ſervant, ſaying, <hi>All things are ready</hi> (to wit) the Prophets wait, their viſions are awake; when the unworthy wretches with one conſent and voyce, all began to make excuſe, one this, &amp;c. another <hi>that had married a wife, could
+<pb n="6" facs="tcp:137016:4"/>not come without her leave;</hi> as by <hi>the five yoke of Oxen,</hi> paints too unto his being Crowned and married ſuch a year, in whoſe room <hi>the maimed bidden, &amp;c.</hi> e<g ref="char:EOLhyphen"/>nough of whoſe company may be had <hi>(Luke 14.)</hi> in plain Engliſh, The careleſs <hi>Stuart</hi> by name, <hi>juſtly turned out of Stewardſhip, what Truſt to be repos'd in ſuch a ONE? unto this day not weighing the many Caveats entered, and ſacred Statutes, Matt. 24.</hi> Noahs days, knowing not his own houſe, when hee ſees it either: <hi>as, had the goodman of the houſe known at what hour &amp;c. would not ſuffred his houſe to be broken up,</hi> his banqueting houſe eſpecially, <hi>&amp;c.</hi>
+            </p>
+            <p>And again, like as in days of old what doings, vvhen <hi>the Son of man is reveal<g ref="char:EOLhyphen"/>ed, thus and thus it ſhall be; marrying,</hi> &amp;c. bidden <hi>Remember Lots wife</hi> her looking back: <hi>and vvhere Lord being
+<pb n="7" facs="tcp:137016:4"/>askt, ſhall be revealed that ſecret, and theſe things be? whereſoever the body is, thither the Eagles reſort.</hi> The body of an army, thoſe ſpacious quarters; <hi>There<g ref="char:EOLhyphen"/>fore what I ſay unto you, I ſay unto all watch, have your lights burning, loyns girt, like men expecting, &amp;c</hi> of which Oracles not ſo obſtruſe hitherto as obvious now. His farewel the prophet <hi>Daniels</hi> on the houſe top proclaims it, bidden <hi>Go thy way &amp;c. (Dan. 12.)</hi> ſhewing, <hi>And from the time the</hi> Daily <hi>ſhal be taken away; and the abomination that maketh de<g ref="char:EOLhyphen"/>ſolate ſet up;</hi> Altars adored; giving to underſtand, <hi>As any have eyes may ſee;</hi> Pauls no little one, thus computes the time, <hi>There ſhall bee a thouſand two hundred &amp; ninety days: Bleſſed is he that waits, and comes to a thouſand three hundred five and thirty:</hi> whereby taking <hi>1000.</hi> reſts (the year of grace)
+<pb n="8" facs="tcp:137016:5"/>
+               <hi>1625.</hi> calling unto this Jubile year <hi>1649.</hi> even <hi>Behold I ſtand at the door and knock, if any man hear my voyce and open the door, I will come in and ſup with him, and he with me ſhall ſit, &amp;c.</hi> By your leave Sirs, which bars any more kneeling at the Table not onely, but from thoſe words, <hi>The daily taken away,</hi> ſhews the Lords Supper how that taken away, unto the foorenoon tranſlated: put<g ref="char:EOLhyphen"/>ting no difference between his and their own Suppers: well preſaging the evening of time how diſcerned: what looking for and haſtening, &amp;c. vvould follovv it, <hi>Pet. 3.</hi>
+            </p>
+            <closer>
+               <signed>Reſting, My Lord, <hi>The humble Servant of your Excellence, ELEANOR.</hi>
+               </signed>
+               <dateline>
+                  <date>Ianuary: 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
